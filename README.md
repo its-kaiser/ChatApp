@@ -10,5 +10,6 @@ ChatApp is a simple Android application that showcases the use of sockets.io in 
 <img src = "https://github.com/its-kaiser/ChatApp/assets/53334151/d68cf53f-49c6-42d4-8b0c-9aca399d41ac" width ="250px" height ="500px">
 
 ## Tech stack & Open-source libraries
+- Kotlin for Android
 - Minimum SDK level 24
 - [Socket.io](https://socket.io/blog/native-socket-io-and-android/)
